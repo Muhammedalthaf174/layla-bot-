@@ -105,13 +105,13 @@ buttons = [
 HELP_STRINGS = """
 `Hi.. I'M` 𝑬𝒓𝒛𝒂
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
-Powered by :- [Awesome Bots](t.me/Laylalist)"""
+Powered by :- [Erza Bots](t.me/Erzabots)"""
 
-layla_IMG = "https://telegra.ph/file/8fb3752a96c659648257e.jpg"
+layla_IMG = "https://telegra.ph/file/cd656e9e48bad357a8e4a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [Hero](t.me/HEROGAMERS1) \
- Supporting isnt always financial! [AwesomeSupport](t.me/LaylaList) \
+ You can support the project [Hero](t.me/Althafser) \
+ Supporting isnt always financial! [Erza Bots](t.me/Erzabots) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
