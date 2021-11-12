@@ -367,7 +367,7 @@ def layla_about_callback(update, context):
                  \n\n_Layla's licensed under the GNU General Public License v3.0_
                  \n❍ Awesome Bots @LaylaList
                  \n❍ Support Group @AwesomeSupport
-                 \n❍ Assistant @LaylaAssistant.
+                 \n❍ Assistant @althafassistant.
                  \nHere is the [💾Repository](https://github.com/QueenArzoo/LaylaRobot).
                  \n\nIf you have any question about Layla, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
