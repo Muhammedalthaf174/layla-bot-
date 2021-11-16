@@ -91,7 +91,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/powerfulfedbanlog"),
         InlineKeyboardButton(
             text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/powerfulfedgroup/410"
         ),
